@@ -10,4 +10,4 @@ Currently interning at SpaceX as a Raptor Tooling and Automation Engineering Int
 
 ## Contact
 
-- Email: [dcgursoy07@gmail.com](mailto:dcgursoy07@gmail.com)
+Email: [dcgursoy07@gmail.com](mailto:dcgursoy07@gmail.com)
